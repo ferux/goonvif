@@ -1,10 +1,10 @@
 package api
 
 import (
-	"github.com/yakovlevdmv/goonvif/PTZ"
+	"github.com/ferux/goonvif/PTZ"
 	"errors"
-	"github.com/yakovlevdmv/goonvif/Device"
-	"github.com/yakovlevdmv/goonvif/Media"
+	"github.com/ferux/goonvif/Device"
+	"github.com/ferux/goonvif/Media"
 )
 
 func getPTZStructByName(name string) (interface{}, error) {

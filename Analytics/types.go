@@ -1,8 +1,8 @@
 package Analytics
 
 import (
-	"github.com/yakovlevdmv/goonvif/xsd/onvif"
-	"github.com/yakovlevdmv/goonvif/xsd"
+	"github.com/ferux/goonvif/xsd/onvif"
+	"github.com/ferux/goonvif/xsd"
 )
 
 type GetSupportedRules struct {

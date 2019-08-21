@@ -1,8 +1,8 @@
 package PTZ
 
 import (
-	"github.com/yakovlevdmv/goonvif/xsd"
-	"github.com/yakovlevdmv/goonvif/xsd/onvif"
+	"github.com/ferux/goonvif/xsd"
+	"github.com/ferux/goonvif/xsd/onvif"
 )
 
 type Capabilities struct {
